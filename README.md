@@ -1,6 +1,6 @@
 # eyes_protect
 
-A new Flutter project.
+A new Flutter project about protect eyes.You can use this project to study flutter.
 
 ## Getting Started
 
